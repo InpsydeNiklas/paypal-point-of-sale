@@ -1,0 +1,14 @@
+{
+  "description": "Default Claude Code settings for the PayPal Point of Sale repository",
+  "permissions": {
+    "allow": [
+      "Skill(paypal-point-of-sale-backend-dev)",
+      "Skill(paypal-point-of-sale-code-review)",
+      "Skill(paypal-point-of-sale-copy-guidelines)",
+      "Skill(paypal-point-of-sale-dev-cycle)",
+      "Skill(paypal-point-of-sale-markdown)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
